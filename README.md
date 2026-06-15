@@ -27,7 +27,7 @@ A modern luxury travel planning platform built with Next.js, TypeScript, and Tai
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/noir-travel.git
+git clone https://github.com/laptopah16-art/Noir-let-s-travel.git
 ```
 
 Install dependencies:
