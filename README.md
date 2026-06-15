@@ -69,6 +69,18 @@ lib/
 styles/
 public/
 ```
+"Screenshots*
+
+Home Page
+<img width="1366" height="768" alt="Home" src="https://github.com/user-attachments/assets/be916c49-6f0a-42b5-85e7-2523443767f0" />
+
+Destinations
+<img width="1366" height="768" alt="Destinations" src="https://github.com/user-attachments/assets/34212e2d-4cdb-4d95-a662-d309b9ce0eb3" />
+
+Planner
+<img width="1366" height="768" alt="Planner" src="https://github.com/user-attachments/assets/ceb09ba6-6cb1-48d9-ad1b-6203a78e842d" />
+
+
 
 ## Future Improvements
 
